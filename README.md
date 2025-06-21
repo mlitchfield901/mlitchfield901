@@ -1,5 +1,5 @@
 <h1>Matt Litchfield</h1>
-<p>By day, I am an electrical engineer designing power and lighting systems for retail and school construction projects, but by night I am a beginner programmer, trading card and video game collector and tech enthusist with a goal of becoming a full stack engineer. When I am not playing prentend with my children or spending time with my wife, I can usually be found listening to a podcast, working on some hobby projects, or just relaxing playing a video game.</p>
+<p>By day, I am an electrical engineer designing power and lighting systems for retail and school construction projects, but by night I am a beginner programmer, trading card and video game collector, lego builder and tech enthusist with a goal of becoming a full stack engineer. When I am not playing prentend with my children or spending time with my wife, I can usually be found listening to a podcast, working on some hobby projects, or just relaxing playing a video game.</p>
 
 <p>In my recent years of becoming a parent of two, I have learned two important lessons - it is important to have a work- life balance and to always being learning. I strive to apply these to my life everyday, whether making sure I allow time to make memories with my family or just taking some time to myself to unwind and maybe even learn some new skills with online classes.
 
