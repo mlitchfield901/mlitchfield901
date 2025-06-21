@@ -6,7 +6,7 @@ In my recent years of becoming a parent of two, I have learned two important les
 Join me on my journey to becoming a developer and, who knows, maybe we can both learn a new trick or two.</h2>
 
 <h2> Let's connect</h2>
-<p><a href="www.linkedin.com/in/matt-litchfield-ee">MattLitchfield | LinkedIn</a></p>
+<p><a href="https://www.linkedin.com/in/matt-litchfield-ee">MattLitchfield | LinkedIn</a></p>
 
 
 <h2>Projects</h2>
