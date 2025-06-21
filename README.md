@@ -8,6 +8,8 @@ Join me on my journey to becoming a developer and, who knows, maybe we can both 
 <h2> Let's connect</h2>
 <p><a href="https://www.linkedin.com/in/matt-litchfield-ee">MattLitchfield | LinkedIn</a></p>
 
+<h2>Projects</h2>
+<p>Coming Soon! Check back for updates.</p>
 
 <h2>Certifications and Achievements</h2>
 <p><a href="https://www.freecodecamp.org/certification/mlitchfield/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a> - Free Code Camp & Microsoft</p>
