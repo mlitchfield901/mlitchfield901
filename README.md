@@ -10,9 +10,11 @@ Join me on my journey to becoming a developer and, who knows, maybe we can both 
 
 <h2>Projects</h2>
 <h3>Python</h3>
-<p><a href="https://github.com/mlitchfield901/Dinner_Picks">Dinner picks</a></p>
+<p><a href="https://github.com/mlitchfield901/Dinner_Picks">Dinner Picks</a></p>
 
 <h3>C#</h3>
+<p><a href="https://github.com/mlitchfield901/Exception_Handler">C# Exception Handler Challenge Project</a></p>
+<p><a href="https://github.com/mlitchfield901/Hero_Vs_Monster_Game">Simple Hero vs Monster Game</a></p>
 
 <h2>Certifications and Achievements</h2>
 <p><a href="https://www.freecodecamp.org/certification/mlitchfield/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a> - Free Code Camp & Microsoft</p>
